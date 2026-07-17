@@ -8,7 +8,7 @@
     <strong>
   <a href="https://drive.google.com/file/d/1fzUgf9IS_3ZIWgV3GeSSpXMzTaSJqete/view?usp=sharing">CV</a> •
   <a href="https://www.linkedin.com/in/olesia-opiakina/">LinkedIn</a> •
-  <a href="https://t.me/Myauctt">Telegram</a> •
+  <a href="https://t.me/Myauctt">Telegram</a>
     </strong>
 </p>
 

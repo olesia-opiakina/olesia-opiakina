@@ -6,10 +6,10 @@
 
 <p align="center">
     <strong>
-  <a href="https://docs.google.com/document/d/1qdFTQO5StiL8WwZeQzprx1zAUDxnkAIkotxRnWlxsEk/edit?usp=sharing">CV</a> •
+  <a href="https://drive.google.com/file/d/1fzUgf9IS_3ZIWgV3GeSSpXMzTaSJqete/view?usp=sharing">CV</a> •
   <a href="https://www.linkedin.com/in/olesia-opiakina/">LinkedIn</a> •
   <a href="https://t.me/Myauctt">Telegram</a> •
-  <a href="mailto:olesyal160899@gmail.com">Email</a>
+  <a href="olesyal160899@gmail.com">Email</a>
     </strong>
 </p>
 
@@ -93,5 +93,5 @@ A responsive landing page featuring CSS animations, interactive UI elements and 
   <img src="https://99px.ru/sstorage/86/2015/12/image_86271215043043632690.gif" width="220" alt="Chi typing" /> 
 </p>
 
-> 🐾 Fun fact: Outside of coding, I'm a huge animal lover, especially cats. If I'm not building web applications, there's a good chance I'm spending time with my cat 🧡
-> Fun fact: My favorite coding buddy is my cat.
+> 🐾 Fun fact: My favorite coding buddy is my cat 🧡
+

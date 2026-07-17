@@ -40,7 +40,7 @@ Vite • Webpack • Git • Figma
 
 Jest • Vitest • Cypress
 
----
+
 
 ## Selected Projects
 
@@ -51,12 +51,10 @@ Jest • Vitest • Cypress
 
 A collaborative educational platform developed as part of a team project. The application helps users share their skills, discover learning opportunities and connect through a modern web interface.
 
-[Live Demo](https://cheery-basbousa-62cbc1.netlify.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/olesia-opiakina/SkillSwap)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-E34F26?style=flat&logo=netlify&logoColor=white)](https://cheery-basbousa-62cbc1.netlify.app/)
 
-[GitHub Repository](https://github.com/olesia-opiakina/SkillSwap)
-
-
-
+---
 
 ### Stellar Burgers
 
@@ -64,12 +62,10 @@ A collaborative educational platform developed as part of a team project. The ap
 
 A burger constructor with authentication, protected routes, drag-and-drop functionality, order creation and automated testing.
 
-[Live Demo](https://stellar-burgers-project.netlify.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/olesia-opiakina/stellar-burgers)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-E34F26?style=flat&logo=netlify&logoColor=white)](https://stellar-burgers-project.netlify.app/)
 
-[GitHub Repository](https://github.com/olesia-opiakina/stellar-burgers)
-
-
-
+---
 
 ### Blog Customizer
 
@@ -77,12 +73,10 @@ A burger constructor with authentication, protected routes, drag-and-drop functi
 
 An interactive application that allows users to customize the appearance of a blog page in real time using reusable React components.
 
-[Live Demo](https://blog-customizer-project.netlify.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/olesia-opiakina/blog-customizer)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-E34F26?style=flat&logo=netlify&logoColor=white)](https://blog-customizer-project.netlify.app/)
 
-[GitHub Repository](https://github.com/olesia-opiakina/blog-customizer)
-
-
-
+---
 
 ### Closing Tag
 
@@ -90,10 +84,8 @@ An interactive application that allows users to customize the appearance of a bl
 
 A responsive landing page focused on semantic HTML, adaptive layout, CSS animations and attention to visual details.
 
-[Live Demo](https://olesia-opiakina.github.io/zakrivayuschiy-teg-f)
-
-[GitHub Repository](https://github.com/olesia-opiakina/zakrivayuschiy-teg-f)
-
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/olesia-opiakina/zakrivayuschiy-teg-f)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-E34F26?style=flat&logo=githubpages&logoColor=white)](https://olesia-opiakina.github.io/zakrivayuschiy-teg-f)
 
 ---
 

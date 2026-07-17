@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
+    <strong>
   <a href="https://docs.google.com/document/d/1qdFTQO5StiL8WwZeQzprx1zAUDxnkAIkotxRnWlxsEk/edit?usp=sharing">CV</a> •
   <a href="https://www.linkedin.com/in/olesia-opiakina/">LinkedIn</a> •
   <a href="https://t.me/Myauctt">Telegram</a> •
-  <a href="olesyal160899@gmail.com">Email</a>
+  <a href="mailto:olesyal160899@gmail.com">Email</a>
+    </strong>
 </p>
 
 <p align="center">
@@ -20,28 +22,28 @@ I'm a Frontend Developer passionate about building responsive and user-friendly 
 
 Currently focused on improving my frontend expertise through personal projects and continuous learning.
 
-
 ## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,vite,webpack,git,jest,cypress,figma" />
 </p>
 
-**Frontend**
+### Frontend
 
 React • TypeScript • JavaScript • HTML5 • CSS3 • SCSS • Redux Toolkit • React Router
 
-**Build & Tools**
+### Build & Tools
 
 Vite • Webpack • Git • Figma
 
-**Testing**
+### Testing
 
 Jest • Vitest • Cypress
 
 ---
 
 ## Selected Projects
+
 
 ### SkillSwap
 
@@ -52,6 +54,8 @@ A collaborative educational platform developed as part of a team project. The ap
 [Live Demo](https://cheery-basbousa-62cbc1.netlify.app/)
 
 [GitHub Repository](https://github.com/olesia-opiakina/SkillSwap)
+
+
 
 
 ### Stellar Burgers
@@ -65,6 +69,8 @@ A burger constructor with authentication, protected routes, drag-and-drop functi
 [GitHub Repository](https://github.com/olesia-opiakina/stellar-burgers)
 
 
+
+
 ### Blog Customizer
 
 **Tech Stack:** React, TypeScript, SCSS
@@ -76,6 +82,8 @@ An interactive application that allows users to customize the appearance of a bl
 [GitHub Repository](https://github.com/olesia-opiakina/blog-customizer)
 
 
+
+
 ### Closing Tag
 
 **Tech Stack:** HTML5, CSS3
@@ -85,3 +93,14 @@ A responsive landing page focused on semantic HTML, adaptive layout, CSS animati
 [Live Demo](https://olesia-opiakina.github.io/zakrivayuschiy-teg-f)
 
 [GitHub Repository](https://github.com/olesia-opiakina/zakrivayuschiy-teg-f)
+
+
+---
+
+
+<p align="center">
+  <img src="https://99px.ru/sstorage/86/2015/12/image_86271215043043632690.gif" width="220" alt="Chi typing" /> 
+</p>
+
+> 🐾 Fun fact: Outside of coding, I'm a huge animal lover, especially cats. If I'm not building web applications, there's a good chance I'm spending time with my cat 🧡
+> Fun fact: My favorite coding buddy is my cat.
